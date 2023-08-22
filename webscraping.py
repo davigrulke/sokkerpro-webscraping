@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 import time
 
 # Define your Telegram bot token and chat ID
-bot_token = "6301932585:AAFgy5ihb-9hvhFuVhu2jCPfxFUVXQS459c"
-chat_id = "-1001823225260"  # Substitua pelo ID do seu canal
+bot_token = "SEU_BOT_TOKEN"
+chat_id = "SEU_CHATID"  # Substitua pelo ID do seu canal
 
 # Lista para rastrear os jogos que já foram notificados
 notified_games = []
